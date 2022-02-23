@@ -1,0 +1,21 @@
+.footerBox {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.footerText {
+  margin: 0 50px;
+}
+.footerText p {
+  color: gray;
+}
+.footerText p span {
+  margin: 0 10px;
+}
+.border {
+  padding: 0 10px;
+  border-left: 1px solid gray !important;
+  border-right: 1px solid gray !important;
+}
